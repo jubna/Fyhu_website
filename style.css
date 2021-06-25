@@ -696,6 +696,9 @@ font-family: 'Pacifico', cursive;
                             height: 50px;
                             padding:10px
                         }
+                        .texrarea{
+                            cols:30;
+                        }
     }
 
     /********** Super extra small devices Only :-) (e.g., iPhone 4) **********/
