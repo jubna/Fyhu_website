@@ -650,7 +650,7 @@ font-family: 'Pacifico', cursive;
                     .review_box{
                         position: absolute;
                         top: 50px;
-                        width: 80%;
+                        width: 100%;
                         height: 200px;
                     }
                     .review_head{
